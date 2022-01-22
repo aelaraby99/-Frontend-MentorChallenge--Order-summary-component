@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/aelaraby99/-Frontend-MentorChallenge--Order-summary-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://aelaraby99-order-summary-component.netlify.app/)
 
 ## My process
 
